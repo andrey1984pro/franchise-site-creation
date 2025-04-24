@@ -15,7 +15,7 @@ export const ContactSection = () => {
     {
       icon: <Mail className="h-5 w-5 text-primary" />,
       title: "Email",
-      details: "info@1c-enikey.ru",
+      details: "anykey71@bk.ru",
     },
     {
       icon: <MapPin className="h-5 w-5 text-primary" />,
