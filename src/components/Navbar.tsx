@@ -10,8 +10,8 @@ export const Navbar = () => {
     <header className="sticky top-0 z-50 w-full border-b bg-background/95 backdrop-blur">
       <div className="container flex h-16 items-center justify-between">
         <div className="flex items-center gap-2">
-          <img src="/logo-b.svg" alt="1С Франчайзи" className="h-8 w-auto" />
-          <span className="text-xl font-bold text-primary">1С Франчайзи</span>
+          <img src="/logo-b.svg" alt="1С Франчайзи Эникей" className="h-8 w-auto" />
+          <span className="text-xl font-bold text-primary">1С Франчайзи Эникей</span>
         </div>
 
         {/* Desktop Navigation */}
@@ -33,7 +33,7 @@ export const Navbar = () => {
         <div className="hidden md:flex items-center gap-4">
           <div className="flex items-center gap-2">
             <Phone size={16} className="text-primary" />
-            <span className="text-sm font-medium">8 (800) 123-45-67</span>
+            <span className="text-sm font-medium">8-800-300-43-49</span>
           </div>
           <Button>Заказать звонок</Button>
         </div>
@@ -83,7 +83,7 @@ export const Navbar = () => {
             </a>
             <div className="flex items-center gap-2 px-4 py-2">
               <Phone size={16} className="text-primary" />
-              <span className="text-sm font-medium">8 (800) 123-45-67</span>
+              <span className="text-sm font-medium">8-800-300-43-49</span>
             </div>
             <div className="px-4">
               <Button className="w-full">Заказать звонок</Button>

@@ -12,7 +12,7 @@ export const HeroSection = () => {
               Официальный франчайзи 1С
             </div>
             <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
-              Эффективные решения для автоматизации вашего бизнеса
+              Эникей: эффективные решения для автоматизации вашего бизнеса
             </h1>
             <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
               Полный комплекс услуг по внедрению, сопровождению и обучению работе с программами 1С
@@ -38,7 +38,7 @@ export const HeroSection = () => {
           <div className="flex items-center justify-center">
             <img
               src="/placeholder.svg"
-              alt="1С решения"
+              alt="1С решения Эникей"
               className="aspect-video rounded-xl object-cover object-center overflow-hidden border border-border shadow-lg"
               width={550}
               height={310}

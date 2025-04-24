@@ -10,12 +10,12 @@ export const ContactSection = () => {
     {
       icon: <Phone className="h-5 w-5 text-primary" />,
       title: "Телефон",
-      details: "8 (800) 123-45-67",
+      details: "8-800-300-43-49",
     },
     {
       icon: <Mail className="h-5 w-5 text-primary" />,
       title: "Email",
-      details: "info@1c-franch.ru",
+      details: "info@1c-enikey.ru",
     },
     {
       icon: <MapPin className="h-5 w-5 text-primary" />,

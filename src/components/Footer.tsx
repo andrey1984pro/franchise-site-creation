@@ -11,8 +11,8 @@ export const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div className="space-y-4 col-span-1 md:col-span-2">
             <div className="flex items-center gap-2">
-              <img src="/logo-b.svg" alt="1С Франчайзи" className="h-8 w-auto" />
-              <span className="text-xl font-bold">1С Франчайзи</span>
+              <img src="/logo-b.svg" alt="1С Франчайзи Эникей" className="h-8 w-auto" />
+              <span className="text-xl font-bold">1С Франчайзи Эникей</span>
             </div>
             <p className="text-sm text-muted-foreground">
               Официальный партнер фирмы 1С. Мы помогаем компаниям автоматизировать бизнес-процессы и повышать эффективность работы.
@@ -67,7 +67,7 @@ export const Footer = () => {
         
         <div className="flex flex-col md:flex-row justify-between items-center gap-4">
           <p className="text-xs text-muted-foreground text-center md:text-left">
-            © 2023 1С Франчайзи. Все права защищены.
+            © 2023 1С Франчайзи Эникей. Все права защищены.
           </p>
           <div className="flex items-center gap-4">
             <a href="#" className="text-xs text-muted-foreground hover:text-foreground">
