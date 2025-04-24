@@ -20,7 +20,7 @@ export const ContactSection = () => {
     {
       icon: <MapPin className="h-5 w-5 text-primary" />,
       title: "Адрес",
-      details: "г. Москва, ул. Примерная, д. 123",
+      details: "г. Тула, ул. Лейтейзена, д. 5",
     },
     {
       icon: <Clock className="h-5 w-5 text-primary" />,
